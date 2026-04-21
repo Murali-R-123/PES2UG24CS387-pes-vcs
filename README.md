@@ -1,5 +1,10 @@
 # Building PES-VCS — A Version Control System from Scratch
 
+**Name: R Muralidharan
+
+**SRN:PES2UG24CS387
+
+**Section:G
 
 **Objective:** Build a local version control system that tracks file changes, stores snapshots efficiently, and supports commit history. Every component maps directly to operating system and filesystem concepts.
 
